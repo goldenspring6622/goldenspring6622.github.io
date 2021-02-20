@@ -1,6 +1,6 @@
 # goldenspring6622.github.io
 Phạm Xuân Hoàng_20520519_KHMT2020
-Sinh viên năm I Trường Đại học Công nghệ Thông tin - DHQG TP.HCM\t
+Sinh viên năm I Trường Đại học Công nghệ Thông tin - DHQG TP.HCM
 Khoa : Khoa học máy tính
 MSSV : 20520519
 Ngày sinh : 06/06/2002
