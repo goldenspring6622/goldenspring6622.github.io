@@ -1,5 +1,4 @@
-# goldenspring6622.github.io
-<link> www.google.com
+<link> goldenspring6622.github.io
 Phạm Xuân Hoàng_20520519_KHMT2020 <br>
 Sinh viên năm I Trường Đại học Công nghệ Thông tin - DHQG TP.HCM <br>
 Khoa : Khoa học máy tính  <br>
