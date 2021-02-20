@@ -1,5 +1,5 @@
 <a href="https://goldenspring6622.github.io"></a> <br>
-<img src="https://kenh14cdn.com/thumb_w/620/2016/14052494-1791255737752859-1715820519-n-1474280623162.jpg" width="50%" height="50%"><br>
+<img src="https://kenh14cdn.com/thumb_w/620/2016/14052494-1791255737752859-1715820519-n-1474280623162.jpg" width="80%" height="80%"><br>
 Phạm Xuân Hoàng_20520519_KHMT2020 <br>
 Sinh viên năm I Trường Đại học Công nghệ Thông tin - DHQG TP.HCM <br>
 Khoa : Khoa học máy tính  <br>
