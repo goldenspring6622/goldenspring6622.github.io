@@ -6,7 +6,18 @@ Khoa : Khoa học máy tính  <br>
 MSSV : 20520519<br>
 Ngày sinh : 06/06/2002 <br>
 Biệt danh : Elsu Thủ Đức aka Top_1_Florentino_VN aka Best_Raz_Người_Chơi_Hệ_Lửa<br>
-Mã nguồn QuickSort<br>
+Mã nguồn Tạo 10 dãy <br>
+<a href="Sort(C++)/sort1.cpp">Mã nguồn 1</a><br>
+<a href="Sort(C++)/sort2.cpp">Mã nguồn 2</a><br>
+<a href="Sort(C++)/sort3.cpp">Mã nguồn 3</a><br>
+<a href="Sort(C++)/sort4.cpp">Mã nguồn 4</a><br>
+<a href="Sort(C++)/sort5.cpp">Mã nguồn 5</a><br>
+<a href="Sort(C++)/sort6.cpp">Mã nguồn 6</a><br>
+<a href="Sort(C++)/sort7.cpp">Mã nguồn 7</a><br>
+<a href="Sort(C++)/sort8.cpp">Mã nguồn 8</a><br>
+<a href="Sort(C++)/sort9.cpp">Mã nguồn 9</a><br>
+<a href="Sort(C++)/sort10.cpp">Mã nguồn 10</a><br>
+Mã nguồn QUICKSORT<br>
 <a href="Quicksort/QS1.cpp">Mã nguồn 1</a><br>
 <a href="Quicksort/QS2.cpp">Mã nguồn 2</a><br>
 <a href="Quicksort/QS3.cpp">Mã nguồn 3</a><br>
@@ -28,3 +39,14 @@ Mã nguồn dùng hàm qsort của C++<br>
 <a href="qsort(C)/qsort8.c">Mã nguồn 8</a><br>
 <a href="qsort(C)/qsort9.c">Mã nguồn 9</a><br>
 <a href="qsort(C)/qsort10.c">Mã nguồn 10</a><br>
+Mã nguồn HEAPSORT<br>
+<a href="HeapSort/HS1.cpp">Mã nguồn 1</a><br>
+<a href="HeapSort/HS2.cpp">Mã nguồn 2</a><br>
+<a href="HeapSort/HS3.cpp">Mã nguồn 3</a><br>
+<a href="HeapSort/HS4.cpp">Mã nguồn 4</a><br>
+<a href="HeapSort/HS5.cpp">Mã nguồn 5</a><br>
+<a href="HeapSort/HS6.cpp">Mã nguồn 6</a><br>
+<a href="HeapSort/HS7.cpp">Mã nguồn 7</a><br>
+<a href="HeapSort/HS8.cpp">Mã nguồn 8</a><br>
+<a href="HeapSort/HS9.cpp">Mã nguồn 9</a><br>
+<a href="HeapSort/HS10.cpp">Mã nguồn 10</a><br>
