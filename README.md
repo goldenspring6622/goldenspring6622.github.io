@@ -7,7 +7,7 @@ MSSV : 20520519<br>
 Ngày sinh : 06/06/2002 <br>
 Biệt danh : Elsu Thủ Đức aka Top_1_Florentino_VN aka Best_Raz_Người_Chơi_Hệ_Lửa<br>
 Mã nguồn QuickSort<br>
-<a href="goldenspring6622.github.io/Quicksort/QS1.cpp">Mã nguồn 1</a><br>
+<a href="Quicksort/QS1.cpp">Mã nguồn 1</a><br>
 <a href="QS2.cpp">Mã nguồn 2</a><br>
 <a href="QS3.cpp">Mã nguồn 3</a><br>
 <a href="QS4.cpp">Mã nguồn 4</a><br>
