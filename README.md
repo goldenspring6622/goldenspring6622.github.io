@@ -6,25 +6,25 @@ Khoa : Khoa học máy tính  <br>
 MSSV : 20520519<br>
 Ngày sinh : 06/06/2002 <br>
 Biệt danh : Elsu Thủ Đức aka Top_1_Florentino_VN aka Best_Raz_Người_Chơi_Hệ_Lửa<br>
-Mã nguồn QuickSort
-<a href="QS1.cpp">Mã nguồn 1</a>
-<a href="QS2.cpp">Mã nguồn 2</a>
-<a href="QS3.cpp">Mã nguồn 3</a>
-<a href="QS4.cpp">Mã nguồn 4</a>
-<a href="QS5.cpp">Mã nguồn 5</a>
-<a href="QS6.cpp">Mã nguồn 6</a>
-<a href="QS7.cpp">Mã nguồn 7</a>
-<a href="QS8.cpp">Mã nguồn 8</a>
-<a href="QS9.cpp">Mã nguồn 9</a>
-<a href="QS10.cpp">Mã nguồn 10</a>
-Mã nguồn dùng hàm qsort của C++
-<a href="qsort1.c">Mã nguồn 1</a>
-<a href="qsort2.c">Mã nguồn 2</a>
-<a href="qsort3.c">Mã nguồn 3</a>
-<a href="qsort4.c">Mã nguồn 4</a>
-<a href="qsort5.c">Mã nguồn 5</a>
-<a href="qsort6.c">Mã nguồn 6</a>
-<a href="qsort7.c">Mã nguồn 7</a>
-<a href="qsort8.c">Mã nguồn 8</a>
-<a href="qsort9.c">Mã nguồn 9</a>
-<a href="qsort10.c">Mã nguồn 10</a>
+Mã nguồn QuickSort<br>
+<a href="QS1.cpp">Mã nguồn 1</a><br>
+<a href="QS2.cpp">Mã nguồn 2</a><br>
+<a href="QS3.cpp">Mã nguồn 3</a><br>
+<a href="QS4.cpp">Mã nguồn 4</a><br>
+<a href="QS5.cpp">Mã nguồn 5</a><br>
+<a href="QS6.cpp">Mã nguồn 6</a><br>
+<a href="QS7.cpp">Mã nguồn 7</a><br>
+<a href="QS8.cpp">Mã nguồn 8</a><br>
+<a href="QS9.cpp">Mã nguồn 9</a><br>
+<a href="QS10.cpp">Mã nguồn 10</a><br>
+Mã nguồn dùng hàm qsort của C++<br>
+<a href="qsort1.c">Mã nguồn 1</a><br>
+<a href="qsort2.c">Mã nguồn 2</a><br>
+<a href="qsort3.c">Mã nguồn 3</a><br>
+<a href="qsort4.c">Mã nguồn 4</a><br>
+<a href="qsort5.c">Mã nguồn 5</a><br>
+<a href="qsort6.c">Mã nguồn 6</a><br>
+<a href="qsort7.c">Mã nguồn 7</a><br>
+<a href="qsort8.c">Mã nguồn 8</a><br>
+<a href="qsort9.c">Mã nguồn 9</a><br>
+<a href="qsort10.c">Mã nguồn 10</a><br>
