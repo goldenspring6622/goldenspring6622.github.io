@@ -9,7 +9,7 @@ int cmpfunc(const void* a, const void* b) {
 
 int main() {
     int n = pow(10, 6);
-    int* a = malloc(n * sizeof(int));
+    int* a = (int *)malloc(n * sizeof(int));
 
     srand(time(NULL));
     
