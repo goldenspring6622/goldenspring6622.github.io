@@ -7,6 +7,7 @@ MSSV : 20520519<br>
 Ngày sinh : 06/06/2002 <br>
 Biệt danh : Elsu Thủ Đức aka Top_1_Florentino_VN aka Best_Raz_Người_Chơi_Hệ_Lửa<br>
 Mã nguồn Sort C++ <br>
+<a href="Mã nguồn/Sort(C++).cpp">Mã nguồn nguyên gốc</a><br>
 <a href="Dữ liệu thử nghiệm/Sort(C++)/sort1.cpp">Mã nguồn 1</a><br>
 <a href="Dữ liệu thử nghiệm/Sort(C++)/sort2.cpp">Mã nguồn 2</a><br>
 <a href="Dữ liệu thử nghiệm/Sort(C++)/sort3.cpp">Mã nguồn 3</a><br>
@@ -18,6 +19,7 @@ Mã nguồn Sort C++ <br>
 <a href="Dữ liệu thử nghiệm/Sort(C++)/sort9.cpp">Mã nguồn 9</a><br>
 <a href="Dữ liệu thử nghiệm/Sort(C++)/sort10.cpp">Mã nguồn 10</a><br>
 Mã nguồn QUICKSORT<br>
+<a href="Mã nguồn/QuickSort.cpp">Mã nguồn nguyên gốc</a><br>
 <a href="Dữ liệu thử nghiệm/Quicksort/QS1.cpp">Mã nguồn 1</a><br>
 <a href="Dữ liệu thử nghiệm/Quicksort/QS2.cpp">Mã nguồn 2</a><br>
 <a href="Dữ liệu thử nghiệm/Quicksort/QS3.cpp">Mã nguồn 3</a><br>
@@ -29,6 +31,7 @@ Mã nguồn QUICKSORT<br>
 <a href="Dữ liệu thử nghiệm/Quicksort/QS9.cpp">Mã nguồn 9</a><br>
 <a href="Dữ liệu thử nghiệm/Quicksort/QS10.cpp">Mã nguồn 10</a><br>
 Mã nguồn dùng hàm qsort của C<br>
+<a href="Mã nguồn/qsort.cpp">Mã nguồn nguyên gốc</a><br>
 <a href="Dữ liệu thử nghiệm/qsort(C)/qsort1.c">Mã nguồn 1</a><br>
 <a href="Dữ liệu thử nghiệm/qsort(C)/qsort2.c">Mã nguồn 2</a><br>
 <a href="Dữ liệu thử nghiệm/qsort(C)/qsort3.c">Mã nguồn 3</a><br>
@@ -40,6 +43,7 @@ Mã nguồn dùng hàm qsort của C<br>
 <a href="Dữ liệu thử nghiệm/qsort(C)/qsort9.c">Mã nguồn 9</a><br>
 <a href="Dữ liệu thử nghiệm/qsort(C)/qsort10.c">Mã nguồn 10</a><br>
 Mã nguồn HEAPSORT<br>
+<a href="Mã nguồn/HeapSort.cpp">Mã nguồn nguyên gốc</a><br>
 <a href="Dữ liệu thử nghiệm/HeapSort/HS1.cpp">Mã nguồn 1</a><br>
 <a href="Dữ liệu thử nghiệm/HeapSort/HS2.cpp">Mã nguồn 2</a><br>
 <a href="Dữ liệu thử nghiệm/HeapSort/HS3.cpp">Mã nguồn 3</a><br>
