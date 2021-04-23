@@ -6,7 +6,7 @@ Khoa : Khoa học máy tính  <br>
 MSSV : 20520519<br>
 Ngày sinh : 06/06/2002 <br>
 Biệt danh : Elsu Thủ Đức aka Top_1_Florentino_VN aka Best_Raz_Người_Chơi_Hệ_Lửa<br>
-Mã nguồn Tạo 10 dãy <br>
+Mã nguồn Sort C++ <br>
 <a href="Sort(C++)/sort1.cpp">Mã nguồn 1</a><br>
 <a href="Sort(C++)/sort2.cpp">Mã nguồn 2</a><br>
 <a href="Sort(C++)/sort3.cpp">Mã nguồn 3</a><br>
@@ -28,7 +28,7 @@ Mã nguồn QUICKSORT<br>
 <a href="Quicksort/QS8.cpp">Mã nguồn 8</a><br>
 <a href="Quicksort/QS9.cpp">Mã nguồn 9</a><br>
 <a href="Quicksort/QS10.cpp">Mã nguồn 10</a><br>
-Mã nguồn dùng hàm qsort của C++<br>
+Mã nguồn dùng hàm qsort của C<br>
 <a href="qsort(C)/qsort1.c">Mã nguồn 1</a><br>
 <a href="qsort(C)/qsort2.c">Mã nguồn 2</a><br>
 <a href="qsort(C)/qsort3.c">Mã nguồn 3</a><br>
